@@ -133,7 +133,7 @@ Written by a cybersecurity student and ethical hacking practitioner, documenting
 ## 📄 Related Write-Up
 
 A detailed narrative version of this assessment is available on Medium.  
-https://medium.com/@tagirisaharshavardhan
+https://medium.com/@tagirisaharshavardhan and also you can check the report by viewing the file in repository
 
 ---
 
